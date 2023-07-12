@@ -1,8 +1,8 @@
 .Dictionary section {
   background: rgb(253, 253, 253);
   padding: 30px;
-  border-radius: 8px;
-  box-shadow: 0 10px 20px rgb(0 0 0 0.2);
+  border-radius: 10px;
+  box-shadow: 0 10px 20px rgba(46, 41, 41, 0.2);
   margin: 20px 0;
 }
 .Dictionary input {

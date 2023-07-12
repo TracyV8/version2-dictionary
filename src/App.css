@@ -14,8 +14,10 @@ body {
   background-color: rgb(207, 242, 255);
   text-align: center;
   justify-content: center;
-
   color: black;
+}
+.App-header h1 {
+  font-size: 80px;
 }
 .App-footer {
   margin-top: 15px;
