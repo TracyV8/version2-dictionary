@@ -1,0 +1,13 @@
+.App {
+  text-align: center;
+}
+
+.App-header {
+  margin-top: 40px;
+  background-color: #b4c9f3;
+
+  align-items: center;
+  justify-content: center;
+
+  color: black;
+}
