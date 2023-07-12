@@ -17,7 +17,7 @@ export default function App() {
           <a
             href="https://github.com/TracyV8/version2-dictionary"
             target="_blank"
-            rel="nonreferrer"
+            rel="noreferrer"
           >
             {" "}
             open sourced on GitHub
